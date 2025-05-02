@@ -13,7 +13,7 @@
 
 ### 🧁 What is this?
 
-This is your ultimate **DSA cheatbook** curated for the **soft-coded queens**, the **baddie devs**, and anyone who wants their algorithm game 💪 to look ✨cute✨.  
+This is your  **DSA cheatbook** curated for the **soft-coded queens**, the **baddie devs**, and anyone who wants their algorithm game 💪 to look ✨cute✨.  
 
 We’re building out the most ✨ aesthetic ✨ and **logically sorted** collection of common DSA **patterns** with clean code, practice problems, and girly glow-ups.
 
@@ -32,23 +32,6 @@ We’re building out the most ✨ aesthetic ✨ and **logically sorted** collect
 
 ---
 
-### 🌷 Aesthetic Goals
-
-- 💖 **Pastel-coded**
-- 🧠 **Pattern-based grouping**
-- 🔥 **Optimized Java code**
-- 🎀 **For girlies who code with ✨vibes✨**
-
----
-
-### 📚 Coming Soon
-
-- 🌈 Dynamic Programming (but not scary)
-- 🍓 Binary Search (because we love precision)
-- 🌻 Recursion (aka ✨functional elegance✨)
-
----
-
 
 ### ✨ How to Use
 
@@ -59,9 +42,4 @@ We’re building out the most ✨ aesthetic ✨ and **logically sorted** collect
 
 ---
 
-### 🧁 Star this repo if you're a baddie who codes 🩷  
-Let's make tech more aesthetic, one data structure at a time 🌸
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1xVctLiCzT5xVCoSXI/giphy.gif" width="180" />
-</p>
