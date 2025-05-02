@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQxODdlNGU2YWI0ZjVmOTg5MGRkOWRkMjRjNDg0YmIzYjdiNzY3NCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="250">
+  ![image](https://github.com/user-attachments/assets/702d3576-41d9-4c7f-9095-f96b4d44a65c)
+
 </p>
 
 <h1 align="center" style="color:#f8b1c3;">✨ DSA for Girlies 💅</h1>
