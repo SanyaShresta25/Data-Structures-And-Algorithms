@@ -10,36 +10,31 @@
 </p>
 
 ---
+### 📘 What is this?
 
-### 🧁 What is this?
-
-This is your  **DSA cheatbook** curated for the **soft-coded queens**, the **baddie devs**, and anyone who wants their algorithm game 💪 to look ✨cute✨.  
-
-We’re building out the most ✨ aesthetic ✨ and **logically sorted** collection of common DSA **patterns** with clean code, practice problems, and girly glow-ups.
+Welcome to your ultimate **DSA cheatbook** — designed for learners who love structure, clarity, and a little flair ✨.  
+Whether you're just starting out or brushing up on concepts, this repo provides a clean, **logically organized** collection of common DSA patterns with simple code and practical examples.
 
 ---
 
-### 💼 Current Patterns Covered
+### 🗂️ Current Patterns Covered
 
-| Folder Name       | Pattern 💡            | Description |
-|-------------------|-----------------------|-------------|
-| 💨 `FastAndSlow`  | Tortoise & Hare 🐢🐇  | Used for cycle detection in linked lists, and more. |
-| 🧷 `LinkedList`   | Classic Linked List 📎 | Insertions, reversals, and node removals. |
-| 📈 `MonotonicStack` | Stack but Slay 📊     | For span problems, next greater/smaller elements. |
-| ✏️ `PrefixSum`    | Cumulative Magic ✨     | Used for range sum queries, subarray checks. |
-| 🌬️ `SlidingWindow` | Efficient Window View 🪟 | For subarray/window problems — fixed or dynamic size. |
-| 💕 `TwoPointers`  | Love at First Traverse 💘 | Used for sorting, searching, and opposite-direction scans. |
-
----
-
-
-### ✨ How to Use
-
-1. Clone this repo `git clone https://github.com/SanyaShresta25/Data-Structures-And-Algorithms`
-2. Open any pattern folder 🎀
-3. Read code, slay logic 💅
-4. Practice like the queen you are 👑
+| 📁 Folder Name       | 💡 Pattern Name          | 📝 Description |
+|----------------------|--------------------------|----------------|
+| `FastAndSlow`        | Tortoise & Hare 🐢🐇       | Used for cycle detection in linked lists and similar problems. |
+| `LinkedList`         | Classic Linked List 🔗    | Covers insertions, reversals, and node deletions. |
+| `MonotonicStack`     | Monotonic Stack 📊        | Useful for span problems and next greater/smaller element challenges. |
+| `PrefixSum`          | Prefix Sum ➕             | Efficient for range queries and subarray calculations. |
+| `SlidingWindow`      | Sliding Window 🪟         | Ideal for fixed and dynamic window-based problems. |
+| `TwoPointers`        | Two Pointers ↔️           | Used for sorting, searching, and opposite-direction scans. |
 
 ---
+
+### 🚀 How to Use
+
+1. 📥 Clone the repository:
+   ```bash
+   git clone https://github.com/SanyaShresta25/Data-Structures-And-Algorithms
+
 
 
