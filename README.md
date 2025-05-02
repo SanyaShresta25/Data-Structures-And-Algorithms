@@ -1,7 +1,7 @@
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/702d3576-41d9-4c7f-9095-f96b4d44a65c)
-
+  <img src="https://github.com/user-attachments/assets/702d3576-41d9-4c7f-9095-f96b4d44a65c" alt="image" />
 </p>
+
 
 <h1 align="center" style="color:#f8b1c3;">✨ DSA for Girlies 💅</h1>
 
