@@ -11,35 +11,19 @@ class ListNode {
 public class ReverseLinkedListBetween2 {
 
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        if (head == null || left == right) return head;
+    if (head == null || left == right) return head;
+    ListNode dummy = new ListNode(0), prev = dummy;
+    dummy.next = head;
 
-        ListNode preRev = null, cur = head;
-
-        // Move `cur` to the `left` position and track `preRev`
-        for (int i = 1; i < left; i++) {
-            preRev = cur;
-            cur = cur.next;
-        }
-
-        // Reverse sublist from `left` to `right`
-        ListNode prev = null, firstReversedNode = cur;
-        for (int i = left; i <= right; i++) {
-            ListNode nextNode = cur.next;
-            cur.next = prev;
-            prev = cur;
-            cur = nextNode;
-        }
-
-        // Connect the reversed part
-        if (preRev != null) {
-            preRev.next = prev;
-        } else {
-            head = prev;
-        }
-
-        firstReversedNode.next = cur;
-
-        return head;
+    for (int i = 1; i < left; i++) prev = prev.next;
+    ListNode curr = prev.next;
+    for (int i = 0; i < right - left; i++) {
+        ListNode temp = curr.next;
+        curr.next = temp.next;
+        temp.next = prev.next;
+        prev.next = temp;
+    }
+    return dummy.next;
     }
 
     public static void main(String[] args) {
